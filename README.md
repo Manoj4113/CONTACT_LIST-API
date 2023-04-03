@@ -7,7 +7,7 @@ This is a Contacts List WebApp made by using NodeJs with Express framework and e
 2. Fork, Clone or download and open this repository in a terminal/command prompt.
 3. Execute `npm install`.
 4. Execute `npm start`.
-5. Open your preferred web browser and go to `http://localhost:8000/`.
+5. Open your preferred web browser and go to `http://localhost:9807/`.
 
 # Features
 1. Add a Contact
@@ -15,6 +15,12 @@ This is a Contacts List WebApp made by using NodeJs with Express framework and e
 
 These contacts will be saved in a MongoDB DataBase.
 
+ALL RIGHTS RESERVED TO @Manoj Patel
+contact me on `padammanojpatel4113@gmail.com`.
+
 # Sample Screenshot
 ![Screenshot (154)](https://user-images.githubusercontent.com/67758484/110108957-d8de8d00-7dd2-11eb-94cb-572eb9357283.png)
+
+
+
 
